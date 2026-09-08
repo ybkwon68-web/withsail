@@ -1,0 +1,7 @@
+# OpenAI API 키 등 개인 비밀값
+.env
+
+# 운영체제/편집기 임시 파일
+.DS_Store
+Thumbs.db
+.vscode/
